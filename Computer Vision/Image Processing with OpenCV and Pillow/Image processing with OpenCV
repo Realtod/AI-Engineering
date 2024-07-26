@@ -145,7 +145,6 @@ plt.figure(figsize=(10,10))
 plt.imshow(cv2.cvtColor(baboon_blue, cv2.COLOR_BGR2RGB))
 plt.show()
 
-# write your script here
 baboon_blue = cv2.imread('baboon.png')
 baboon_blue = cv2.cvtColor(baboon_blue, cv2.COLOR_BGR2RGB)
 baboon_blue[:,:,2] = 0
