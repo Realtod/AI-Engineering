@@ -1,2 +1,2 @@
-# Coursera
-All projects related to IBM - AI Engineering course on Coursera
+# AI Engineering
+My projects related to the researching of AI
